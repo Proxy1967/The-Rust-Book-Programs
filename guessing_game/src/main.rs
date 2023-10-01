@@ -1,4 +1,4 @@
-use rand::Rng;
+use rand::Rng; // to generate a random number
 use std::cmp::Ordering; // Ordering has enums Less, Greater, and Equal
 use std::io; // for input/output // to generate random numbers
 
