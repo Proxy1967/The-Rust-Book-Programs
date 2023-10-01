@@ -1,0 +1,22 @@
+# Notes
+
+- To obtain user input and then print the result as output, we need to bring the `io` input/output library into scope
+  - the `io` library comes from the standard library `std`
+  - calling `use std::io` tells the program we will use the input/output library from the standard library
+- We create variables with the `let [VAR_NAME]` statement
+  - normally all variables created are immutable
+  - in order to create mutable variables we use `let mut [VAR_NAME]`
+- The `&` indicates that an argument is a reference
+  - this gives you a way to let multiple parts of your code access one piece of data without needing to copy that data into memory multiple times
+  - like variables, references are immutable by default
+- `read_line` puts whatever the user enters into the string we pass to it, but it also returns a `Result` value
+  - `Result` is an enumeration, often called an `enum`, which is a type that can be in one of multiple possible states
+  - We call each possible state a variant.
+  - `Result`'s variants are `Ok` and `Err`
+  - The `Ok` variant indicates the operation was successful, and inside `Ok` is the successfully generated value
+  - The `Err` variant means the operation failed, and `Err` contains information about how or why the operation failed
+  - calling `expect()` on this `Result` will cause the program to crash and display the error message
+- Using crates to get more functionality
+  - in `Cargo.toml` below `[dependencies]` adding `rand = "0.8.5"` will let us use the `rand` library crate
+  - `"0.8.5"` is a shorthand for `^0.8.5` so we can use versions 0.8.5 and above but below 0.9.0
+- The `loop` keyword creates an infinite loop
