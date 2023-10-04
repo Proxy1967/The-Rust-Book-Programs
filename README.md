@@ -5,3 +5,4 @@
 - [Guessing game](https://github.com/Proxy1967/Rust-Programs/tree/main/guessing_game)
 - [Variables](https://github.com/Proxy1967/Rust-Programs/tree/main/variables)
 - [Data Types](https://github.com/Proxy1967/Rust-Programs/tree/main/data_types)
+- [Functions](https://github.com/Proxy1967/Rust-Programs/tree/main/functions)
