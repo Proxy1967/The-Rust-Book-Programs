@@ -95,7 +95,7 @@
 
 fn main() {
     for number in (1..4).rev() { // loop by starting from 1 and ending before the last number, 4 in this case
-        println!("{number}!");   // rev() reverses the range
+        println!("{number}!");   // rev() returns an iterator with direction reversed
     }
     println!("LIFTOFF!!!");
 }

@@ -6,9 +6,9 @@ fn main() {
 
     let b: u64 = 500; // u64 => unsigned 64-bit integer
 
-    let x = 2.0; // f64 => signed 64-bit floating point number
+    let x = 2.0; // f64 => signed 64-bit floating point number - double precision
 
-    let y: f32 = 3.0; // f32 => signed 32-bit floating point number
+    let y: f32 = 3.0; // f32 => signed 32-bit floating point number - single precision
 
     // ---------------------------------------------------------- //
 
