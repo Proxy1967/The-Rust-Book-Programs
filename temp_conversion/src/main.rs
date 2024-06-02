@@ -1,3 +1,5 @@
+// TASK: Convert temperatures between Fahrenheit and Celsius.
+
 use std::io;
 use std::io::Write;
 
