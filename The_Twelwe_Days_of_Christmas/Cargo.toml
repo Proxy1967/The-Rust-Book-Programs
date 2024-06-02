@@ -1,0 +1,6 @@
+[package]
+name = "The_Twelwe_Days_of_Christmas"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
