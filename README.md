@@ -9,3 +9,4 @@
 - [Branches](https://github.com/Proxy1967/Rust-Programs/tree/main/branches)
 - [Loops](https://github.com/Proxy1967/Rust-Programs/tree/main/loops)
 - [Temperature conversion program](https://github.com/Proxy1967/Rust-Programs/tree/main/temp_conversion)
+- [Fibonacci number generator](https://github.com/Proxy1967/Rust-Programs/tree/main/fibonacci)
