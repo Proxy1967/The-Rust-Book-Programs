@@ -12,3 +12,7 @@
 - [Fibonacci number generator](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/fibonacci)
 - [The Twelve Days of Christmas](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/The_Twelwe_Days_of_Christmas)
 - [Ownership](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/9_ownership)
+- [References](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/10_references)
+- [Fixing Ownership Erros](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/11_fixing_ownership_errors)
+- [Slices](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/12_slice_type)
+- [Structs](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/13_structs)
