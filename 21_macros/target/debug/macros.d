@@ -1,0 +1,1 @@
+/home/kirin/The-Rust-Book-Programs/21_macros/target/debug/macros: /home/kirin/The-Rust-Book-Programs/21_macros/hello_macro/hello_macro_derive/src/lib.rs /home/kirin/The-Rust-Book-Programs/21_macros/hello_macro/src/lib.rs /home/kirin/The-Rust-Book-Programs/21_macros/src/main.rs
