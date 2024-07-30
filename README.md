@@ -31,3 +31,4 @@
   - [Employees and Departments](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/employees_and_departments)
   - [Pig Latin](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/pig_latin)
   - [Minigrep](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/minigrep)
+  - [Multithreaded web server](https://github.com/Proxy1967/The-Rust-Book-Programs/tree/main/multithreaded_web_server)
